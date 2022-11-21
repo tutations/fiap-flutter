@@ -1,8 +1,16 @@
 # Trabalho Final
 
-Trabalho Final da matéria de Flutter
+FIAP: MBA em Mobile Development - Aplicações Nativas Cross-Plataform com Flutter
 
-## Getting Started
+Professor: Marcelo Pinheiro Montanher
+
+Componentes:
+
+- RM344985 - Artur Clemente
+- RM344766 - Caique Castanho Bolognesi Melchior
+- RM344777 - Marcio Fernando de Messias
+- RM345171 - Marcos Cesar de Lelis
+- RM344785 - Wendel de Assis da Silva
 
 Esse projeto foi construído com a finalidade de possibilitar a realização de um bolão com os resultados da copa do mundo.
 
