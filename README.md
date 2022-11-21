@@ -1,16 +1,19 @@
-# trabalhofinal
+# Trabalho Final
 
 Trabalho Final da matéria de Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esse projeto foi construído com a finalidade de possibilitar a realização de um bolão com os resultados da copa do mundo.
 
-A few resources to get you started if this is your first Flutter project:
+Foi construído uma [API](https://demo2840398.mockable.io/plays) com a listagem e resultados dos jogos.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A partir da listagem de jogos foi construído uma aba de listagem de jogos:
+![jogos.png](/assets/readme/jogos.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ao clicar em cima de um jogo é possível cadastrar o seu palpite:
+![palpite.png](/assets/readme/palpite.png)
+
+Os palpites já cadastrados podem ser consultados na aba de palpites:
+![lista_palpite.png](/assets/readme/lista_palpite.png)
+
