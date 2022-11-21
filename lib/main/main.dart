@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:trabalhofinal/pages/login_page.dart';
-import 'package:trabalhofinal/pages/home_page.dart';
-import 'package:trabalhofinal/pages/profile_page.dart';
-import 'package:trabalhofinal/pages/splash_page.dart';
-import 'package:trabalhofinal/pages/register_page.dart';
-import 'package:trabalhofinal/pages/soccer_page.dart';
-import 'package:trabalhofinal/pages/registerPlay_page.dart';
-import '../models/play_model.dart';
+import '../pages/login_page.dart';
+import '../pages/home_page.dart';
+import '../pages/profile_page.dart';
+import '../pages/splash_page.dart';
+import '../pages/register_page.dart';
 
 import '../ui/components/app_theme.dart';
 
